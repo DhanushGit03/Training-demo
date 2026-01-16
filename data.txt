@@ -1,2 +1,4 @@
 jhkbbkjhbknm 
 Learning linux commands - cd, ls, mkdir
+
+Learnt some more linux comands 
